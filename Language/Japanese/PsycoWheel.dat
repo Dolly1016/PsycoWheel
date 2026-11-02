@@ -1,0 +1,30 @@
+"state.psychoWheel" : "風車"
+
+"button.label.psychoWheelFind" : "見る"
+
+"options.psychoWheel" : "キチガイ風車オプション"
+"options.psychoWheel.detail" : "マップを歩き回るキチガイ風車に関する設定です。"
+"options.psychoWheel.spawn" : "キチガイ風車"
+"options.psychoWheel.spawn.detail" : "オンにするとキチガイ風車が出現します。"
+"options.psychoWheel.numOfWheels" : "キチガイ風車の出現数"
+"options.psychoWheel.numOfWheels.detail" : "出現するキチガイ風車の数です。"
+
+
+"gamemode.psychoWheel" : "キチガイ風車"
+"gamemode.psychoWheel.score" : "回"
+"options.psychoWheel.timeLimit" : "制限時間"
+"options.psychoWheel.timeLimit.detail" : "キチガイ風車モードの制限時間です。この間に風車を見た回数を競います。"
+"gamemode.psychoWheel.taskText" : "キチガイ風車: "認識"されないように見続けよう"
+"psychoWheel.clickDirectly" : "キチガイ風車を直接クリックしてください"
+"options.psychoWheel.addInterval" : "キチガイ風車の追加間隔"
+"options.psychoWheel.addInterval.detail" : "キチガイ風車モードで、この間隔ごとにキチガイ風車が1体ずつ増えます。Offなら増えません。"
+
+"psychoWheel.information.title" : "キチガイ風車"
+"psychoWheel.information.intro" : "見て<b><color=red>!!</color></b>キチガイ風車だよ<b><color=red>!!</color></b><br>"認識"されてはいけない宇宙航行へようこそ！<br>細かなルールはゲームモードによって少しずつ異なります。"
+"psychoWheel.information.normal" : "通常モード"
+"psychoWheel.information.normal.content" : "オプションでキチガイ風車をオンにすると、タスクフェーズが始まるたびにキチガイ風車が出現します。<br>キチガイ風車は一度プレイヤーを"認識"すると、<b>緊急会議が始まるまで追いかけ続けます</b>。プレイヤーをキルしたキチガイ風車は消滅し、<b>次の緊急会議が終わると復活</b>します。<br><br>キチガイ風車を見ると様々な恩恵を得られます。<br>　-<b>クルーメイト</b>の場合: <b>50</b>回見るごとにタスクが1つ完了する。<br>　-<b>キルボタン</b>を持つ非クルーメイトの場合: <b>10</b>回見るごとにキルクールダウンが5秒短縮する。"
+"psychoWheel.information.gameMode" : "キチガイ風車モード"
+"psychoWheel.information.gameMode.content" : "制限時間内にキチガイ風車を見た回数を競いあう専用ゲームモードです！<br>このゲームモードでは緊急会議が開けず、死体も通報できません。<br>プレイヤーは<b>自身を"認識"していないキチガイ風車</b>のみ見ることができます。<br><br>プレイヤーを"認識"したキチガイ風車がプレイヤーを追いかける時間には制限があります。ただし、追いかける時間は"認識"するたびに長くなり、最終的には制限なく追いかけるようになります。<br><br>プレイヤーをキルしたキチガイ風車は消滅しますが、しばらくすると別の場所に再び現れます。さらに、時間とともにキチガイ風車は増えていきます。<br><br><size=110%><b>ゲームルールまとめ</b></size><br>・キチガイ風車を<b>見た回数</b>を競います。<br>・このゲームモードでは緊急会議は起こせません。<br>・ときどき、<b>ドアがランダムに閉まります</b>。<br>・制限時間になるか、全員が死亡するとゲームが終了します。<br>・Discord等の音声通話を繋ぎながらのゲームプレイをおすすめします！"
+"psychoWheel.information.image.normal" : "キチガイ風車です。壁越しには"認識"しません。こっそり見ましょう。<br>キチガイ風車はたまに周りを見渡し、見つけたプレイヤーを"認識"します。<br>近づきすぎても"認識"されます。"
+"psychoWheel.information.image.recognized" : "まずい"認識"された逃げろ逃げろ逃げろ逃げ"
+"psychoWheel.information.image.findButton" : "<b>キチガイ風車をクリック</b>すると見ることができます。"

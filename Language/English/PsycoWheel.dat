@@ -1,0 +1,30 @@
+"state.psychoWheel" : "Wheeled"
+
+"button.label.psychoWheelFind" : "Found"
+
+"options.psychoWheel" : "Psycho Wheel Settings"
+"options.psychoWheel.detail" : "Settings for the Psycho Wheel that wanders the map."
+"options.psychoWheel.spawn" : "Psycho Wheel"
+"options.psychoWheel.spawn.detail" : "Whether Psycho Wheels appear at the start of each task phase."
+"options.psychoWheel.numOfWheels" : "# Wheels"
+"options.psychoWheel.numOfWheels.detail" : "How many Psycho Wheels appear in each task phase. Multiple wheels spawn apart from each other."
+
+
+"gamemode.psychoWheel" : "Psycho Wheel"
+"gamemode.psychoWheel.score" : " times"
+"options.psychoWheel.timeLimit" : "Time Limit"
+"options.psychoWheel.timeLimit.detail" : "The time limit of the Psycho Wheel mode. Players compete for how many times they find the wheels."
+"gamemode.psychoWheel.taskText" : "Find the wandering Psycho Wheels and press Look"
+"psychoWheel.clickDirectly" : "Click the Psycho Wheel directly"
+"options.psychoWheel.addInterval" : "Wheel Addition Interval"
+"options.psychoWheel.addInterval.detail" : "In the Psycho Wheel mode, one more wheel appears at this interval. No wheels are added when Off."
+
+"psychoWheel.information.title" : "Psycho Wheel"
+"psychoWheel.information.intro" : "The Psycho Wheel is a wheel with four hands that wanders the map. It sometimes stops to look around, and chases and kills the players it finds. Click a wheel directly to look at it.<br>The rules differ slightly depending on the game mode."
+"psychoWheel.information.normal" : "Normal Modes"
+"psychoWheel.information.normal.content" : "When the Psycho Wheel option is on, wheels appear at the start of each task phase and disappear when a meeting starts.<br><br><b>Recognition</b><br>If you are within the area a wheel is looking at, or get very close to it, you will be recognized. It cannot recognize you through walls.<br><br><b>Chase</b><br>Once you are recognized, the wheel holds out its hands and then chases you. Your screen flashes red while you are chased, and you will be killed if caught. It gives up if you get far enough away. If another player gets close to a chasing wheel, it switches its target to that player.<br><br><b>Look</b><br>You can only look at wandering wheels. Crewmates complete one task every 50 looks, and players with a kill button shorten their kill cooldown by 5 seconds every 10 looks."
+"psychoWheel.information.gameMode" : "Psycho Wheel Mode"
+"psychoWheel.information.gameMode.content" : "Everyone becomes a Crewmate without tasks and competes for how many times they look at the wheels within the time limit. The player who looks the most wins.<br><br>- You cannot call meetings or report bodies.<br>- If you are not being chased, you can also look at wheels chasing someone else.<br>- Chases have a time limit, which gets longer each time the same wheel chases, and eventually disappears.<br>- A wheel that catches someone disappears and reappears elsewhere a little later. More wheels also appear over time.<br>- Doors sometimes close at random.<br>- You become a spectator as soon as you die. The game ends immediately when everyone is dead."
+"psychoWheel.information.image.normal" : "A wandering Psycho Wheel. It grins from ear to ear and moves while spinning its hands."
+"psychoWheel.information.image.recognized" : "A Psycho Wheel that has recognized a player. Its eyes go wide and all its hands point at you. Its light turns red, and it chases you."
+"psychoWheel.information.image.findButton" : "The Look button. It shows how many times you have looked and the cooldown. Pressing this button does not count as looking, so click the wheel directly."

@@ -1,0 +1,11 @@
+{
+	"Id" : "PsycoWheel",
+	"Name" : "キチガイ風車",
+	"Author" : "Dolly",
+	"Description" : "マップ内を動き回るキチガイ風車を追加します。",
+	"Version" : "1.0",
+	"Build" : 0,
+	"Dependency" : [
+	],
+	"Hidden" : False
+}
