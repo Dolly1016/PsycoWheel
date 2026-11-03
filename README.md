@@ -19,12 +19,3 @@
 
 ## 導入方法
 - **マーケットプレイスから**: NoSのマーケットプレイスで「キチガイ風車」を検索して有効にしてください。
-- **手動で**: [Releases](https://github.com/Dolly1016/PsycoWheel/releases/latest) から `PsycoWheel.zip` をダウンロードし、Among Usのフォルダの `Addons` に置いてください。
-
-## リポジトリの構成
-このリポジトリの中身(`README.md` と `.gitignore` を除く)をそのままzipにしたものがアドオンです。
-
-- `addon.meta`: アドオンの情報
-- `Scripts/`: スクリプト(NoSが起動時にコンパイルします)
-- `Resources/`: 画像
-- `Language/`: 翻訳
